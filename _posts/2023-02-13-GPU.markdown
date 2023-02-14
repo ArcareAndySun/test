@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "GPU"
+date:   2023-02-13 15:22:00 +0800
+categories: jekyll update
+---
+
+# 顯示卡
+
+|名稱|品牌|規格|
+|:--|:--|:--|
+|顯示卡|Intel(R) HD Graphics Family|Intel|記憶體 128 MB|
+|顯示卡|Intel(R) HD Graphics Family|Intel|記憶體 128 MB|
+|顯示卡|Intel(R) HD Graphics Family|Intel|記憶體 128 MB|
