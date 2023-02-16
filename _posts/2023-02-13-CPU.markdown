@@ -6,9 +6,14 @@ categories: jekyll update
 ---
 
 # 處理器
+<img src="/test/img/CPU_Intel_i5.png" width="20%">
 
 |名稱|品牌|規格|
 |:--|:--|:--|
-|Intel(R) Core(TM) i5-4210U CPU|Intel|1.70GHz 2.40 GHz|
+|Intel(R) Core(TM) i5-4210U CPU|Intel|[下載](/test/file/Intel_UPE_SpecificationsChart_2023_02_16.csv)|
 
-	
+![i5](/test/img/CPU_Intel_i5.png "I5處理器")
+
+
+
+
