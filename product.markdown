@@ -2,6 +2,7 @@
 layout: page
 title: 產品
 permalink: /product/
+show: 1
 ---
 
 # 產品
